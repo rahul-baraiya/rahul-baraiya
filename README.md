@@ -1,6 +1,6 @@
 ### Hey, I'm Rahul 👋🏻
 
-I'm a 22 year old software engineer based in Bharat (India), and I'm passionate about crafting digital experiences.
+I'm a 23 year old software engineer based in Bharat (India), and I'm passionate about crafting digital experiences.
 
 ## 📦 Toolbox
 
